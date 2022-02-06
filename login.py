@@ -1,0 +1,2 @@
+USERNAME = "instaID"
+PASSWORD = "instaPass"
